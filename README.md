@@ -11,12 +11,12 @@ Para executar o projeto, siga os seguintes passos:
 1. Clone o repositório em seu computador: 
 
 ```
-git clone https://github.com/seu-usuario/pizzaria-java.git
+git clone https://github.com/lubpolita/DesignPatterns.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```
-cd pizzaria-java
+cd DesignPatterns
 ```
 
 3. Compile o projeto:
